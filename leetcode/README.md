@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0075-sort-colors) |
+| [0078-subsets](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0136-single-number) |
 | [0169-majority-element](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0169-majority-element) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0067-add-binary) |
+| [0078-subsets](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0078-subsets) |
 | [0136-single-number](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0136-single-number) |
 ## Divide and Conquer
 |  |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0078-subsets) |
 ## Dynamic Programming
 |  |
 | ------- |
