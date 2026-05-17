@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0136-single-number) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0169-majority-element) |
 ## Math
 |  |
@@ -79,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0053-maximum-subarray) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
