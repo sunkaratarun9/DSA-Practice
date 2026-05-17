@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0137-single-number-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0485-max-consecutive-ones) |
 ## Two Pointers
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0167-two-sum-ii-input-array-is-sorted) |
 ## Sorting
 |  |
 | ------- |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0167-two-sum-ii-input-array-is-sorted) |
 ## Tree
 |  |
 | ------- |
