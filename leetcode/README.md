@@ -124,12 +124,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0143-reorder-list) |
 | [0147-insertion-sort-list](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0147-insertion-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0206-reverse-linked-list) |
 ## Backtracking
 |  |
 | ------- |
