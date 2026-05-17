@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0027-remove-element) |
+| [0031-next-permutation](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0031-next-permutation) |
 | [0040-combination-sum-ii](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0048-rotate-image) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0027-remove-element) |
+| [0031-next-permutation](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0088-merge-sorted-array) |
 ## Sorting
