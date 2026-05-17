@@ -7,7 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0001-two-sum) |
 | [0015-3sum](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0015-3sum) |
 | [0018-4sum](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0018-4sum) |
-| [0031-next-permutation](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0031-next-permutation) |
+| [0040-combination-sum-ii](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0040-combination-sum-ii) |
 | [0075-sort-colors](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0136-single-number) |
@@ -18,7 +18,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0015-3sum) |
 | [0018-4sum](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0018-4sum) |
-| [0031-next-permutation](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0088-merge-sorted-array) |
 ## Sorting
@@ -57,9 +56,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0013-roman-to-integer) |
-| [0020-valid-parentheses](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0020-valid-parentheses) |
-## Stack
+## Linked List
 |  |
 | ------- |
-| [0020-valid-parentheses](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0020-valid-parentheses) |
+| [0021-merge-two-sorted-lists](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0021-merge-two-sorted-lists) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
