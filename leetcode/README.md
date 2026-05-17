@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0027-remove-element) |
 | [0031-next-permutation](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0048-rotate-image) |
@@ -112,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0020-valid-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0035-search-insert-position) |
 <!---LeetCode Topics End-->
