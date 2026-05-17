@@ -28,7 +28,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0169-majority-element) |
-| [0189-rotate-array](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0485-max-consecutive-ones) |
 ## Two Pointers
 |  |
@@ -47,7 +46,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0167-two-sum-ii-input-array-is-sorted) |
-| [0189-rotate-array](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
@@ -78,7 +76,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0066-plus-one) |
 | [0067-add-binary](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0070-climbing-stairs) |
-| [0189-rotate-array](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0189-rotate-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -86,11 +83,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0078-subsets) |
 | [0136-single-number](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0137-single-number-ii) |
+| [0190-reverse-bits](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0190-reverse-bits) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0190-reverse-bits) |
 ## Counting
 |  |
 | ------- |
