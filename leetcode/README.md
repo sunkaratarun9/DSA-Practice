@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0204-count-primes) |
 | [0485-max-consecutive-ones](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0485-max-consecutive-ones) |
 ## Two Pointers
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0202-happy-number) |
+| [0204-count-primes](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0204-count-primes) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -193,4 +195,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0200-number-of-islands) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0204-count-primes) |
 <!---LeetCode Topics End-->
