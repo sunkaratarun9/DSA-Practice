@@ -55,9 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0013-roman-to-integer) |
-| [0020-valid-parentheses](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0020-valid-parentheses) |
-## Stack
+## Linked List
 |  |
 | ------- |
-| [0020-valid-parentheses](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0020-valid-parentheses) |
+| [0021-merge-two-sorted-lists](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
