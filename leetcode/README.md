@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0075-sort-colors) |
@@ -100,10 +101,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0073-set-matrix-zeroes) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0067-add-binary) |
 ## Memoization
 |  |
