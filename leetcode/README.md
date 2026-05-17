@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0136-single-number) |
 | [0169-majority-element](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0485-max-consecutive-ones) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0169-majority-element) |
 ## Math
 |  |
@@ -148,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0110-balanced-binary-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
