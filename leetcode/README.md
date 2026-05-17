@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0075-sort-colors) |
 | [0078-subsets](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0136-single-number) |
 | [0169-majority-element](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0485-max-consecutive-ones) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0118-pascals-triangle) |
 ## Matrix
 |  |
 | ------- |
