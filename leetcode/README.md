@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0167-two-sum-ii-input-array-is-sorted) |
 ## Sorting
@@ -108,11 +109,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0143-reorder-list) |
 | [0147-insertion-sort-list](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0147-insertion-sort-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0143-reorder-list) |
 ## Backtracking
 |  |
 | ------- |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0143-reorder-list) |
 ## Binary Search
 |  |
 | ------- |
