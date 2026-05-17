@@ -23,7 +23,7 @@ This repository contains my accepted Data Structures and Algorithms solutions fr
 
 ## Languages Used
 
-- Java,Python
+- Java, Python
 
 ## Goal
 
