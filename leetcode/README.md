@@ -140,16 +140,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0110-balanced-binary-tree) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0129-sum-root-to-leaf-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0110-balanced-binary-tree) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0129-sum-root-to-leaf-numbers) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0110-balanced-binary-tree) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0129-sum-root-to-leaf-numbers) |
 ## Union-Find
 |  |
 | ------- |
