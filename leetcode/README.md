@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0202-happy-number) |
 ## Sorting
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0169-majority-element) |
+| [0202-happy-number](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0202-happy-number) |
 ## Math
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0066-plus-one) |
 | [0067-add-binary](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0202-happy-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -86,7 +89,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0191-number-of-1-bits) |
-| [0201-bitwise-and-of-numbers-range](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0201-bitwise-and-of-numbers-range) |
 ## Divide and Conquer
 |  |
 | ------- |
