@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0088-merge-sorted-array) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0048-rotate-image) |
+| [0066-plus-one](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0066-plus-one) |
 | [0067-add-binary](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0070-climbing-stairs) |
 ## Bit Manipulation
