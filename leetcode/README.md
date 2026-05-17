@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0075-sort-colors) |
 | [0078-subsets](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0078-subsets) |
+| [0079-word-search](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0136-single-number) |
 | [0169-majority-element](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0169-majority-element) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0067-add-binary) |
+| [0079-word-search](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0079-word-search) |
 ## Linked List
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0040-combination-sum-ii](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0078-subsets) |
+| [0079-word-search](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0079-word-search) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0079-word-search) |
 ## Simulation
 |  |
 | ------- |
@@ -123,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0035-search-insert-position) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0079-word-search) |
 <!---LeetCode Topics End-->
