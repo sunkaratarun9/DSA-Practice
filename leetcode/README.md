@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0125-valid-palindrome) |
 ## Sorting
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0125-valid-palindrome) |
 ## Linked List
 |  |
 | ------- |
