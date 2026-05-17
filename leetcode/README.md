@@ -42,7 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0142-linked-list-cycle-ii) |
-| [0148-sort-list](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0148-sort-list) |
+| [0151-reverse-words-in-a-string](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0151-reverse-words-in-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -51,7 +51,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0147-insertion-sort-list) |
-| [0148-sort-list](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0148-sort-list) |
 | [0169-majority-element](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0169-majority-element) |
 ## Hash Table
 |  |
@@ -85,7 +84,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0053-maximum-subarray) |
-| [0148-sort-list](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0148-sort-list) |
 | [0169-majority-element](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0169-majority-element) |
 ## Counting
 |  |
@@ -99,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0151-reverse-words-in-a-string) |
 ## Linked List
 |  |
 | ------- |
@@ -108,7 +107,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0142-linked-list-cycle-ii) |
 | [0147-insertion-sort-list](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0147-insertion-sort-list) |
-| [0148-sort-list](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0148-sort-list) |
 ## Recursion
 |  |
 | ------- |
@@ -171,8 +169,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0128-longest-consecutive-sequence) |
-## Merge Sort
-|  |
-| ------- |
-| [0148-sort-list](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0148-sort-list) |
 <!---LeetCode Topics End-->
