@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0204-count-primes) |
 | [0485-max-consecutive-ones](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0485-max-consecutive-ones) |
+| [2639-separate-the-digits-in-an-array](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/2639-separate-the-digits-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0067-add-binary) |
+| [2639-separate-the-digits-in-an-array](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/2639-separate-the-digits-in-an-array) |
 ## Memoization
 |  |
 | ------- |
