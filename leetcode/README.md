@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0204-count-primes) |
 | [0485-max-consecutive-ones](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0540-single-element-in-a-sorted-array) |
 | [2634-minimum-common-value](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/2634-minimum-common-value) |
 | [2639-separate-the-digits-in-an-array](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/2639-separate-the-digits-in-an-array) |
 ## Two Pointers
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0167-two-sum-ii-input-array-is-sorted) |
 | [0493-reverse-pairs](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0540-single-element-in-a-sorted-array) |
 | [2634-minimum-common-value](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/2634-minimum-common-value) |
 ## Tree
 |  |
