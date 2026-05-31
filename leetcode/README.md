@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0204-count-primes) |
+| [0217-contains-duplicate](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0540-single-element-in-a-sorted-array) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0147-insertion-sort-list) |
 | [0169-majority-element](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0169-majority-element) |
 | [0202-happy-number](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0217-contains-duplicate) |
 | [2634-minimum-common-value](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/2634-minimum-common-value) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/3405-count-the-number-of-special-characters-ii) |
 ## Math
