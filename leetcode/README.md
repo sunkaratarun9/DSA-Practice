@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0540-single-element-in-a-sorted-array) |
+| [2245-destroying-asteroids](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/2245-destroying-asteroids) |
 | [2634-minimum-common-value](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/2634-minimum-common-value) |
 | [2639-separate-the-digits-in-an-array](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/2639-separate-the-digits-in-an-array) |
 ## Two Pointers
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0147-insertion-sort-list) |
 | [0169-majority-element](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0217-contains-duplicate) |
+| [2245-destroying-asteroids](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/2245-destroying-asteroids) |
 ## Hash Table
 |  |
 | ------- |
@@ -248,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0493-reverse-pairs) |
+## Greedy
+|  |
+| ------- |
+| [2245-destroying-asteroids](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/2245-destroying-asteroids) |
 <!---LeetCode Topics End-->
