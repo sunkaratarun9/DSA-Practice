@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0217-contains-duplicate) |
+| [0228-summary-ranges](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0228-summary-ranges) |
 | [0485-max-consecutive-ones](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0540-single-element-in-a-sorted-array) |
