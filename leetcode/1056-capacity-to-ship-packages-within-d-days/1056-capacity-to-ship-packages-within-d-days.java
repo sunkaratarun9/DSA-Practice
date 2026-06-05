@@ -23,7 +23,6 @@ class Solution {
             }else {
                 high = mid ;
             }
-
         }
         return low;
     }
