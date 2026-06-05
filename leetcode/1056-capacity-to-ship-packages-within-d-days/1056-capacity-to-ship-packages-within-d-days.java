@@ -10,7 +10,6 @@ class Solution {
         while (low < high){
             int mid= ( low + high)/2;
             int dayNeed=1, currWeight=0;
-
             for (int w : weights){
                 if ( currWeight + w > mid ){
                     dayNeed++;
