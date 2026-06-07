@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0125-valid-palindrome) |
@@ -159,11 +160,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0078-subsets) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0118-pascals-triangle) |
