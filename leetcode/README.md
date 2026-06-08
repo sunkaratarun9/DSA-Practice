@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/1056-capacity-to-ship-packages-within-d-days) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2245-destroying-asteroids](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/2245-destroying-asteroids) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/2265-partition-array-according-to-given-pivot) |
 | [2634-minimum-common-value](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/2634-minimum-common-value) |
 | [2639-separate-the-digits-in-an-array](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/2639-separate-the-digits-in-an-array) |
 ## Two Pointers
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0202-happy-number) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/2265-partition-array-according-to-given-pivot) |
 | [2634-minimum-common-value](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/2634-minimum-common-value) |
 ## Sorting
 |  |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0067-add-binary) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/2265-partition-array-according-to-given-pivot) |
 | [2639-separate-the-digits-in-an-array](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/2639-separate-the-digits-in-an-array) |
 ## Memoization
 |  |
