@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0540-single-element-in-a-sorted-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/1056-capacity-to-ship-packages-within-d-days) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1833-find-the-highest-altitude](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/1833-find-the-highest-altitude) |
 | [2245-destroying-asteroids](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/2245-destroying-asteroids) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/2265-partition-array-according-to-given-pivot) |
 | [2634-minimum-common-value](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/2634-minimum-common-value) |
@@ -267,4 +268,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2245-destroying-asteroids](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/2245-destroying-asteroids) |
+## Prefix Sum
+|  |
+| ------- |
+| [1833-find-the-highest-altitude](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
