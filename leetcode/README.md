@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/2265-partition-array-according-to-given-pivot) |
 | [2634-minimum-common-value](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/2634-minimum-common-value) |
 | [2639-separate-the-digits-in-an-array](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/2639-separate-the-digits-in-an-array) |
+| [4005-maximum-total-subarray-value-i](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/4005-maximum-total-subarray-value-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2245-destroying-asteroids](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/2245-destroying-asteroids) |
+| [4005-maximum-total-subarray-value-i](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/4005-maximum-total-subarray-value-i) |
 ## Prefix Sum
 |  |
 | ------- |
