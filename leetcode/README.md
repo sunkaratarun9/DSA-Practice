@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0205-isomorphic-strings) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/3405-count-the-number-of-special-characters-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/3612-process-string-with-special-operations-i) |
+| [3931-process-string-with-special-operations-i](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/3931-process-string-with-special-operations-i) |
 ## Linked List
 |  |
 | ------- |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/2265-partition-array-according-to-given-pivot) |
 | [2639-separate-the-digits-in-an-array](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/2639-separate-the-digits-in-an-array) |
 | [3612-process-string-with-special-operations-i](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/3612-process-string-with-special-operations-i) |
+| [3931-process-string-with-special-operations-i](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/3931-process-string-with-special-operations-i) |
 ## Memoization
 |  |
 | ------- |
