@@ -37,3 +37,19 @@ dsa-practice/
 ├── leetcode/      # Auto-pushed LeetCode solutions
 ├── geeksforgeeks/ # Auto-pushed GeeksforGeeks solutions
 └── topics/        # Topic-wise index files
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/sunkaratarun9/DSA-Practice/tree/master/1189-maximum-number-of-balloons) |
+## String
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/sunkaratarun9/DSA-Practice/tree/master/1189-maximum-number-of-balloons) |
+## Counting
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/sunkaratarun9/DSA-Practice/tree/master/1189-maximum-number-of-balloons) |
+<!---LeetCode Topics End-->
