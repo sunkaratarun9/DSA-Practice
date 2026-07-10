@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0540-single-element-in-a-sorted-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/1056-capacity-to-ship-packages-within-d-days) |
+| [1222-remove-covered-intervals](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/1222-remove-covered-intervals) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1833-find-the-highest-altitude](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/1833-find-the-highest-altitude) |
 | [2245-destroying-asteroids](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/2245-destroying-asteroids) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0147-insertion-sort-list) |
 | [0169-majority-element](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0217-contains-duplicate) |
+| [1222-remove-covered-intervals](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/1222-remove-covered-intervals) |
 | [2245-destroying-asteroids](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/2245-destroying-asteroids) |
 ## Hash Table
 |  |
