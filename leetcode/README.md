@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0202-happy-number) |
 | [0204-count-primes](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0204-count-primes) |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/3995-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0204-count-primes) |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/3995-gcd-of-odd-and-even-sums) |
 ## Binary Indexed Tree
 |  |
 | ------- |
