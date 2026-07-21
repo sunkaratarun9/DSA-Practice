@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0540-single-element-in-a-sorted-array) |
+| [0907-koko-eating-bananas](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/1056-capacity-to-ship-packages-within-d-days) |
 | [1222-remove-covered-intervals](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/1222-remove-covered-intervals) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0167-two-sum-ii-input-array-is-sorted) |
 | [0493-reverse-pairs](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0540-single-element-in-a-sorted-array) |
+| [0907-koko-eating-bananas](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/1056-capacity-to-ship-packages-within-d-days) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/1646-kth-missing-positive-number) |
