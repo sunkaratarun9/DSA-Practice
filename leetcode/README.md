@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2634-minimum-common-value](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/2634-minimum-common-value) |
 | [2639-separate-the-digits-in-an-array](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/2639-separate-the-digits-in-an-array) |
 | [4005-maximum-total-subarray-value-i](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/4005-maximum-total-subarray-value-i) |
+| [4107-find-missing-elements](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/4107-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0217-contains-duplicate) |
 | [1222-remove-covered-intervals](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/1222-remove-covered-intervals) |
 | [2245-destroying-asteroids](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/2245-destroying-asteroids) |
+| [4107-find-missing-elements](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/4107-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/0217-contains-duplicate) |
 | [2634-minimum-common-value](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/2634-minimum-common-value) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/3405-count-the-number-of-special-characters-ii) |
+| [4107-find-missing-elements](https://github.com/sunkaratarun9/DSA-Practice/tree/master/LeetCode/4107-find-missing-elements) |
 ## Math
 |  |
 | ------- |
