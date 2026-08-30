@@ -52,4 +52,12 @@ dsa-practice/
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/sunkaratarun9/DSA-Practice/tree/master/1189-maximum-number-of-balloons) |
+## Array
+|  |
+| ------- |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sunkaratarun9/DSA-Practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+## Binary Search
+|  |
+| ------- |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sunkaratarun9/DSA-Practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 <!---LeetCode Topics End-->
